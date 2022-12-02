@@ -28,7 +28,7 @@ html {
 .card {
     width: 500px;
     border: 10px solid $grey-light;
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 
 .card-header {
